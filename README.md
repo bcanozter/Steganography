@@ -7,7 +7,7 @@
 
 ## General info
 
-Text message encryption and decryption in image. Please refer to the design document for more detailed information about the algorithms implemented.
+Text message encryption and decryption in image. Please refer to the documentation for more detailed information about the algorithms implemented.
 	
 ## Technologies
 Project is created with:
